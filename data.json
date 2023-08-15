@@ -1,0 +1,68 @@
+[{
+    "category":"Earings",
+    "productName":"holi EARRINGS",
+    "price":"47000",
+    "discount":"10",
+    "mainImage":"https://purkaushal.com/wp-content/uploads/2022/04/S-14-PR.jpg",
+    "image":["https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg","https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg"],
+    "goldWeight":["2.500","2.900"],
+    "goldType":["white gold","rose gold"],
+    "gold":"18",
+    "solitairy":"SI-IJ",
+    "diamond":"VS-GH",
+    "size":["1","2","3"],
+    "description": "Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus.",
+    "review":["nice", "Good product"]
+
+},{
+    "category":"Earings",
+    "productName":"DAINTY EARRINGS",
+    "price":"47000",
+    "discount":"10",
+    "mainImage":"https://purkaushal.com/wp-content/uploads/2022/04/S-14-PR.jpg",
+    "image":["https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg","https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg"],
+    "goldWeight":["2.500","2.900"],
+    "goldType":["white gold","rose gold"],
+    "gold":"18",
+    "solitairy":"SI-IJ",
+    "diamond":"VS-GH",
+    "size":["1","2","3"],
+    "description": "Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus.",
+    "review":["nice", "Good product"]
+
+},
+{
+    "category":"Nosepin",
+    "productName":"handmade EARRINGS",
+    "price":"47000",
+    "discount":"10",
+    "mainImage":"https://purkaushal.com/wp-content/uploads/2022/04/S-14-PR.jpg",
+    "image":["https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg","https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg"],
+    "goldWeight":["2.500","2.900"],
+    "goldType":["white gold","rose gold"],
+    "gold":"18",
+    "solitairy":"SI-IJ",
+    "diamond":"VS-GH",
+    "size":["1","2","3"],
+    "description": "Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus.",
+    "review":["nice", "Good product"]
+
+},
+{
+    "category":"Nosepin",
+    "productName":"gold nosepin",
+    "price":"47000",
+    "discount":"10",
+    "mainImage":"https://purkaushal.com/wp-content/uploads/2022/04/S-14-PR.jpg",
+    "image":["https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg","https://purkaushal.com/wp-content/uploads/2022/04/S-14-TR-GREEN-600x600.jpg"],
+    "goldWeight":["2.500","2.900"],
+    "goldType":["white gold","rose gold"],
+    "gold":"18",
+    "solitairy":"SI-IJ",
+    "diamond":"VS-GH",
+    "size":["1","2","3"],
+    "description": "Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus.",
+    "review":["nice", "Good product"]
+
+}
+]
