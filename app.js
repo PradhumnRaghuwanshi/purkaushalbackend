@@ -14,6 +14,7 @@ app.use(express.json({ extended: false, limit: "50mb" }));
 
 app.use("/api/allProduct", require("./routes/allProduct"));
 app.use("/api/cart", require("./routes/cart"));
+app.use("/api/category", require("./routes/category"));
 // app.use("/api/teacherDetail", require("./routes/teacherDetail"));
 
 
